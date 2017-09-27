@@ -1,12 +1,16 @@
 # tableau
+Udacity DAND Project Write-Up
+
 Background
 I chose to create a visualization of Baseball Test data. The data consist of the 1157 player’s detail. Their height (in
 inches), weight (in pounds), average, highest run and whether they left hander, right hander or both.
 Links to versions:
-Version1: https://public.tableau.com/profile/amruta5126#!/vizhome/tableauproject_5/Story1?publish=yes
+Version1: https://public.tableau.com/profile/amruta5126#!/vizhome/version1_5/Story1?publish=yes
 With the help of given data I have done the visualization of players name with measures (avg., highest run, height,
-Weight  avg, highest run, records)
-.
+Weight ).
+Version2: https://public.tableau.com/profile/amruta5126#!/vizhome/version2_7/Story1?publish=yes
+In this version I have added few more graphs in where I have done the visualization of handedness with the
+measures (avg., highest run, height, weight)
 Design
 I chose to tell a data story using the Tableau Story tool. After doing exploratory data analysis on the dataset
 Card 1:
